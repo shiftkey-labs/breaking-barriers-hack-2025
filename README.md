@@ -16,18 +16,6 @@ Each team has their own folder inside this repository containing:
 
 ---
 
-## 📝 Judging Criteria
-
-| Category                     | Weight |
-|-----------------------------|--------|
-| 💡 Innovation & Creativity  | 20%    |
-| 🌍 Social Impact            | 25%    |
-| ⚙️ Technical Implementation | 20%    |
-| 🎨 Design & Usability       | 15%    |
-| 🎤 Presentation & Communication | 20% |
-
----
-
 ## 🧠 Goals of This Hackathon
 
 - Create a **safe space** for innovation without stigma or bias
