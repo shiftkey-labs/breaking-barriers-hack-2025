@@ -39,7 +39,7 @@ Each team has their own folder inside this repository containing:
 ## 🙌 Thanks & Acknowledgments
 
 Special thanks to:
-- **WiTS** for leading mentorship and outreach  
+- Everyone at **WiTS** and **Shiftkey** who made this possible
 - All our **mentors**, **judges**, and **guest speakers**  
 - Our incredible participants for their creativity, courage, and collaboration
 
